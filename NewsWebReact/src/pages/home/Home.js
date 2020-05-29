@@ -7,7 +7,37 @@ function Home(){
     return(
         <div>
             <div className="container">
-            <Newsbox></Newsbox>
+                <div className="row">
+                    <div className="col-md-4">
+                        <Newsbox></Newsbox>
+                    </div>
+                    <div className="col-md-4">
+                        <Newsbox></Newsbox>
+                    </div>
+                    <div className="col-md-4">
+                        <Newsbox></Newsbox>
+                    </div>
+                    <div className="col-md-4">
+                        <Newsbox></Newsbox>
+                    </div>
+                    <div className="col-md-4">
+                        <Newsbox></Newsbox>
+                    </div>
+                    <div className="col-md-4">
+                        <Newsbox></Newsbox>
+                    </div>
+                </div>
+                {/* <div className="row">
+                    <div className="col-md-4">
+                        <Newsbox></Newsbox>
+                    </div>
+                    <div className="col-md-4">
+                        <Newsbox></Newsbox>
+                    </div>
+                    <div className="col-md-4">
+                        <Newsbox></Newsbox>
+                    </div>
+                </div> */}
             </div>
             
         </div>

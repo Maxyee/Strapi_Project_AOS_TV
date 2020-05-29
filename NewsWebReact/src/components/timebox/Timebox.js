@@ -4,7 +4,7 @@ import React from 'react';
 function Timebox(){
     return(
         <div>
-            Time specifier
+            3h
         </div>
     );
 }

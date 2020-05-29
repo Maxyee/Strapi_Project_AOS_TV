@@ -4,7 +4,7 @@ import React from 'react';
 function Detailsbox(){
     return(
         <div>
-            details of that news
+            Khadiza Begum. a Rohingya refugee, left Myanmar to escape violence but found more horror to sea.
         </div>
     );
 }
